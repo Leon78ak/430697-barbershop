@@ -1,0 +1,19 @@
+body {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  font-family: "PT Sans Narrow","Arial", sans-serif;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.page-title,
+.section-title {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.2;
+  font-family: "PT Sans Narrow","Arial", sans-serif;
+  text-transform: uppercase;
+  color: #000000;
+}
+
